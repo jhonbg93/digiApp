@@ -1,0 +1,51 @@
+.App {
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: #557153;
+  height: 900px;
+  width: 100%;
+}
+
+h1{
+  margin: 0;
+}
+
+.componentes{
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.contenedor{
+  
+  background: #7D8F69;
+  border-radius: 10px;
+  border: 1px solid black;
+  width: 500px;
+  height: 600px;
+  margin: 10px;
+}
+
+input{
+  border-radius: 10px;
+  border: none;
+  height: 30px;
+  width: 300px;
+  margin: 10px 10px 10px;
+}
+
+button{
+  background: #E6E5A3 ;
+  cursor: pointer;
+  border-radius: 10px;
+  margin: 10px 10px 10px;
+}
+
+
+
+
+
